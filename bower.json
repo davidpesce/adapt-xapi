@@ -1,0 +1,19 @@
+{
+  "name": "adapt-xapi",
+  "homepage": "https://github.com/davidpesce/adapt-xapi",
+  "authors": [
+    "davidpesce <davidpesce@gmail.com>"
+  ],
+  "description": "Experience API (xAPI/TinCan) extension for Adapt Learning framework",
+  "main": "/js/adapt-xapi.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "xapi",
+    "experience",
+    "api",
+    "tincan"
+  ],
+  "license": "GPLv3"
+}
