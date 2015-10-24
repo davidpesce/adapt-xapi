@@ -1,6 +1,9 @@
 {
   "name": "adapt-xapi",
+  "version": "0.0.1",
+  "framework": ">2.0.0",
   "homepage": "https://github.com/davidpesce/adapt-xapi",
+  "repository": "https://github.com/davidpesce/adapt-xapi.git",
   "authors": [
     "davidpesce <davidpesce@gmail.com>"
   ],
@@ -10,6 +13,7 @@
     "amd"
   ],
   "keywords": [
+    "adapt-extension",
     "xapi",
     "experience",
     "api",
