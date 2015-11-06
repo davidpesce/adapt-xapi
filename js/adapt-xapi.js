@@ -1,7 +1,7 @@
 define([
     'coreJS/adapt',
     'underscore',
-    'extensions/adapt-tincan/js/xapiwrapper.min'
+    'extensions/adapt-xapi/lib/xapiwrapper.min'
 ], function(Adapt, _, xapi) {
 
     var xapiWrapper;
